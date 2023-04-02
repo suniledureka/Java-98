@@ -4,7 +4,7 @@
   Date: 25th March 2023
 */
 
-class Welcome
+public class Welcome
 {
   public static void main(String[] args)
   {
